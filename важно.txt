@@ -1,8 +1,0 @@
-@d3942
-Root Repository
-
-BOOMPC.github.io
-
-https://github.com/d3942/BOOMPC.github.io
-
-u1181104_uboompc
